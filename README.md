@@ -11,10 +11,10 @@ Este script implementa un sistema de reconocimiento de matrículas de automóvil
 ### Ejecución
 1. Clona o descarga este repositorio en tu máquina local.
 2. Asegúrate de tener todos los requisitos mencionados anteriormente instalados.
-3. Ejecuta el script `license_plate_recognition.py`.
+3. Ejecuta el script `MatriculaIA.py`.
 
 ```bash
-python license_plate_recognition.py
+python MatriculaIA.py
 ```
 
 4. La aplicación comenzará a capturar video desde la cámara. Coloca un automóvil frente a la cámara para que pueda detectar la matrícula.
